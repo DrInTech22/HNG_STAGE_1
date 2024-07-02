@@ -1,0 +1,4 @@
+mike; sudo,dev,www-data
+chioma; sudo
+light; dev,mentor,kind
+Zxenon; mentor, smart
