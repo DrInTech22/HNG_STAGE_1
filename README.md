@@ -10,3 +10,5 @@ Additionally, store the generated passwords securely in /var/secure/user_passwor
     A user can have multiple groups, each group delimited by comma ","
     Usernames and user groups are separated by semicolon ";"- Ignore whitespace
 
+## SOLUTION
+As stated in the submission requirements, I have written a detailed article on the task's solution. Check it out [here](https://devopsmaestro.hashnode.dev/how-to-automate-user-creation-with-bash-script-in-your-company) 
